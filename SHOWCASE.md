@@ -78,12 +78,13 @@ Any setup is welcome — beginner or power user. 💛
   hold the key, say what I want, and have it appear wherever I'm working instead of constantly switching back
   to the keyboard.
 
-  ### @Adharsh Narayan
+### @Adharsh75r
 - **OS / desktop:** Windows 11
-- **Mic:**  Razer HyperClear Cardioid 
-- **Apps you dictate into:**  terminal, VS Code, email, web browser , Vscode
-- **How you use YazSes:**   Mostly for typing while coding and working on GitHub. It’s nice being able to just
-  hold the key, say what I want, and have it appear wherever I'm working instead of constantly switching back
-  to the keyboard.
-    
+- **Mic:** Razer HyperClear Cardioid
+- **Apps you dictate into:** terminal, VS Code, email, web browsers
+- **How you use YazSes:** I use YazSes now as a quick way to turn my thoughts into text while
+  working. It's especially useful when I'm debugging code, writing documentation, preparing
+  GitHub contributions, or entering longer text where typing everything out would slow me
+  down and cause mistakes I don't notice while working.
+
 <!-- Add your entry above this line's section by appending a new ### block at the end. -->
